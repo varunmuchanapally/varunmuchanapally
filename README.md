@@ -46,7 +46,7 @@ I’m currently:
 |--------|-------------|
 | 🔒 [SafeURL](https://github.com/varunmuchanapally/FCSAP-SafeURL) | AI-powered URL safety checker with SSL, IP, geolocation, and ChatGPT |
 | 🧾 [Yield Curve Predictor](https://github.com/varunmuchanapally/Yield-Curve-Prediciton) | Predicts economic downturns from macroeconomic data |
-| 🌍 [Professor VRX](https://github.com/varunmuchanapally/Professor-VRX) | Multilingual PDF explainer using Gemini + Google TTS |
+| 🌍 [Professor VRX](https://github.com/varunmuchanapally/Professor-VRX) | Multilingual explainer using Gemini + Google TTS |
 
 ---
 
