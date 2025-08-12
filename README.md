@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a developer and researcher passionate about solving real-world problems with code. I love building AI-driven systems and tools that make a measurable impact — from predicting economic trends to improving cybersecurity.
+I'm a developer and researcher passionate about solving real-world problems with code. I love building AI-driven systems and tools that make a measurable impact, from predicting economic trends to improving cybersecurity.
 
 I’m currently:
 - 🧠 Practicing Deep Learning & Kaggle every week
